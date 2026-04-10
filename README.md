@@ -14,3 +14,5 @@
 - World2Act: Latent Action Post-Training via Skill-Compositional World Models. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.10422)]
 - ∆VLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.08361)]
 - Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.27287)]
+- VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.12063)]
+- Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.20607)]
