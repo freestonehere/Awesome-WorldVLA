@@ -1,5 +1,6 @@
 # Awesome-WorldVLA
 - WorldVLA: Towards Autoregressive Action World Model. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2506.21539)]
+- Unified Video Action Model. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2503.00200)]
 - Towards Generalist Embodied AI: A Survey on World Models for VLA Agents. **`techrxiv 2026`** [[paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176948355.54623875/v1?download=true)]
 - DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.06521)]
 - FUTURE-VLA: Forecasting Unified Trajectories Under Real-time Execution. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.15882)]
