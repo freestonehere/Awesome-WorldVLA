@@ -1,4 +1,5 @@
 # Awesome-WorldVLA
+## 2026.01-2026.04 WorldVLA Papers
 - WorldVLA: Towards Autoregressive Action World Model. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2506.21539)]
 - Unified Video Action Model. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2503.00200)]
 - Towards Generalist Embodied AI: A Survey on World Models for VLA Agents. **`techrxiv 2026`** [[paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176948355.54623875/v1?download=true)]
@@ -17,3 +18,12 @@
 - Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.27287)]
 - VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.12063)]
 - Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.20607)]
+
+## More WorldVLA Papers
+- RynnVLA-002: A Unified Vision-Language-Action and World Model. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2511.17502)]
+- GigaWorld-Policy: An Efficient Action-Centered World–Action Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.17240)]
+- Do World Action Models Generalize Better than VLAs? A Robustness Study. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.22078)]
+- MAPF-World: Action World Model for Multi-Agent Path Finding. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2508.12087)]
+- InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2601.02456)]
+- Self-Correcting VLA: Online Action Refinement via Sparse World Imagination. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.21633)]
+- Enhancing Policy Learning with World-Action Model
