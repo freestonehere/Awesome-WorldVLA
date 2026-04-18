@@ -26,4 +26,13 @@
 - MAPF-World: Action World Model for Multi-Agent Path Finding. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2508.12087)]
 - InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2601.02456)]
 - Self-Correcting VLA: Online Action Refinement via Sparse World Imagination. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.21633)]
-- Enhancing Policy Learning with World-Action Model
+- Enhancing Policy Learning with World-Action Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.28955v1)]
+- Learning Vision-Language-Action World Models for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2604.09059)]
+- Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.27287)]
+- Chain of World: World Model Thinking in Latent Motion. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.03195)]
+
+
+## WorldVLA-like, but not strictly
+- RISE: Self-Improving Robot Policy with Compositional World Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.11075)]
+- Scaling World Model for Hierarchical Manipulation Policies. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.10983)]
+- World Guidance: World Modeling in Condition Space for Action Generation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.22010)]
