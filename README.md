@@ -28,7 +28,6 @@
 - Self-Correcting VLA: Online Action Refinement via Sparse World Imagination. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.21633)]
 - Enhancing Policy Learning with World-Action Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.28955v1)]
 - Learning Vision-Language-Action World Models for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2604.09059)]
-- Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.27287)]
 - Chain of World: World Model Thinking in Latent Motion. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.03195)]
 
 
