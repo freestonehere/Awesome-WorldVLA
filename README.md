@@ -4,6 +4,7 @@
 - Unified Video Action Model. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2503.00200)]
 - Towards Generalist Embodied AI: A Survey on World Models for VLA Agents. **`techrxiv 2026`** [[paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176948355.54623875/v1?download=true)]
 - DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.06521)]
+- DriveLaW: Unifying Planning and Video Generation in a Latent Driving World. **`CVPR 2026`** [[paper](https://arxiv.org/pdf/2512.23421)]
 - FUTURE-VLA: Forecasting Unified Trajectories Under Real-time Execution. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.15882)]
 - GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.12099)]
 - Self-Correcting VLA: Online Action Refinement via Sparse World Imagination. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.21633)]
