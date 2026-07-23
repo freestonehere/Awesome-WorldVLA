@@ -3,7 +3,7 @@
 ### Explicit
 - Unified Video Action Model. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2503.00200)]
 - GigaWorld-Policy: An Efficient Action-Centered World–Action Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.17240)]
-- Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation. **`arxiv 2023`** [[paper](https://arxiv.org/pdf/2312.13139)]
+- Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation. **`ICLR 2024`** [[paper](https://arxiv.org/pdf/2312.13139)]
 - UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2501.18867)]
 - Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2604.21741v2)]
 
@@ -13,7 +13,7 @@
 - World2Act: Latent Action Post-Training via Skill-Compositional World Models. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.10422)]
 - S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.16195)]
 - Geometry-Aware Motion Latents for Learning Robust Manipulation Policies. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2607.04714v1)]
-- DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2507.04447v3)]
+- DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge. **`NeurIPS 2025`** [[paper](https://arxiv.org/pdf/2507.04447v3)]
 - PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2601.07060v2)]
 - World Guidance: World Modeling in Condition Space for Action Generation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.22010)]
 - Fast-WAM: Do World Action Models Need Test-time Future Imagination? **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.16666v2)]
