@@ -1,7 +1,7 @@
 # Awesome-WorldVLA
 ## World-Augmented VLA
 ### Explicit
-- Unified Video Action Model. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2503.00200)]
+- Unified Video Action Model. **`RSS 2025`** [[paper](https://arxiv.org/pdf/2503.00200)]
 - GigaWorld-Policy: An Efficient Action-Centered World–Action Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.17240)]
 - Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation. **`ICLR 2024`** [[paper](https://arxiv.org/pdf/2312.13139)]
 - UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2501.18867)]
@@ -9,12 +9,12 @@
 
 
 ### Implicit
-- VLA-JEPA: Enhancing Vision-Language-ActionModel with Latent World Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.10098)]
+- VLA-JEPA: Enhancing Vision-Language-ActionModel with Latent World Model. **`ECCV 2026`** [[paper](https://arxiv.org/pdf/2602.10098)]
 - World2Act: Latent Action Post-Training via Skill-Compositional World Models. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.10422)]
-- S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.16195)]
+- S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight. **`ECCV 2026`** [[paper](https://arxiv.org/pdf/2603.16195)]
 - Geometry-Aware Motion Latents for Learning Robust Manipulation Policies. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2607.04714v1)]
 - DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge. **`NeurIPS 2025`** [[paper](https://arxiv.org/pdf/2507.04447v3)]
-- PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2601.07060v2)]
+- PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation. **`CVPR 2026`** [[paper](https://arxiv.org/pdf/2601.07060v2)]
 - World Guidance: World Modeling in Condition Space for Action Generation. **`ICML 2026`** [[paper](https://arxiv.org/pdf/2602.22010)]
 - Fast-WAM: Do World Action Models Need Test-time Future Imagination? **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.16666v2)]
 - AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.08519v1)]
@@ -25,6 +25,7 @@
 ## World-Cooperative VLA
 
 ### World Simulator
+- World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2509.24948)]
 - World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.06508)]
 - WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.13977)]
 - AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.20057v1)]
@@ -61,9 +62,11 @@
 - DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.06521v1)]
 - MAPF-World: Action World Model for Multi-Agent Path Finding. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2508.12087)]
 - Motus: A Unified Latent Action World Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2512.13030v2)]
+- When to Trust Imagination: Adaptive Action Execution for World Action Models. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2605.06222v1)]
 - DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.29844)]
 - Scaling World Model for Hierarchical Manipulation Policies. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2602.10983)]
 - SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.08113v1)]
 - LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior. **`ECCV 2026`** [[paper](https://arxiv.org/pdf/2603.25399v1)]
 - STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2604.26848v2)]
-
+- UniviewVLA: A Unified Multiview Vision-Language-Action Model with World Modeling. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2606.21501v1)]
+- UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2604.02190v1)]
