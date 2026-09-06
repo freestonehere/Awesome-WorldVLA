@@ -7,6 +7,7 @@
 - UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2501.18867)]
 - VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2607.02503)]
 - AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2607.14997)]
+- GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2607.13960v3)]
 
 
 ### Implicit
