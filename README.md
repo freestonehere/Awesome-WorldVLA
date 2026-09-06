@@ -5,7 +5,6 @@
 - GigaWorld-Policy: An Efficient Action-Centered World–Action Model. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2603.17240)]
 - Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation. **`ICLR 2024`** [[paper](https://arxiv.org/pdf/2312.13139)]
 - UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. **`arxiv 2025`** [[paper](https://arxiv.org/pdf/2501.18867)]
-- Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2604.21741v2)]
 - VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2607.02503)]
 - AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight. **`arxiv 2026`** [[paper](https://arxiv.org/pdf/2607.14997)]
 
